@@ -31,7 +31,6 @@
 *.out
 *.app
 /.DS_Store
-
 /cmake-build-debug/
 /.idea/.gitignore
 /.idea/misc.xml
